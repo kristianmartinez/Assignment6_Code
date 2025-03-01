@@ -2,7 +2,7 @@ package org.example.Barnes;
 
 import java.util.Map;
 
-class BarnesAndNoble {
+public class BarnesAndNoble {
 
     private BookDatabase bookDatabase;
     private BuyBookProcess process;
